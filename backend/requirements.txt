@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic>=2.0
+python-dotenv>=1.0.0
+python-dotenv
+passlib[bcrypt]
+itsdangerous
+sentence-transformers
+numpy
+transformers
+torch
+hf_xet
+pydantic_settings
+pydantic[email]
